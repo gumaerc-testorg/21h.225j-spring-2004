@@ -6,6 +6,7 @@ file: /courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/1fb853e91a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Paper Assignment
 uid: 1fb853e9-1a3c-d4b9-a29c-1db996e78dcc
 ---
 Instructions for a research assignment on gender and law in United States history.
-

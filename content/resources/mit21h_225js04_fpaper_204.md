@@ -6,6 +6,7 @@ file: /courses/21h-225j-gender-and-the-law-in-u-s-history-spring-2004/f959cda4a7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: First Writing Assignment
 uid: f959cda4-a7b3-89c6-2e88-d096dc9bc5e2
 ---
 Instructions and potential topics for a writing assignment on gender law in United States history.
-
