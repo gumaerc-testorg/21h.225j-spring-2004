@@ -39,7 +39,7 @@ Introduction
 
 _Viewing_
 
-[_Adam's Rib_](http://www.imdb.com/title/tt0041090/) (1949).
+{{% resource_link "d4e200cd-1510-45fa-954a-b9c0482dea77" "_Adam's Rib_" %}} (1949).
 
 
 {{< tdclose >}}
@@ -74,7 +74,7 @@ Dayton, Cornelia Hughes. "Taking the Trade: Abortion and Gender Relations in an 
 
 DuBois, Ellen Carol. "Outgrowing the Compact of the Fathers: Equal Rights, Woman Suffrage, and the United States Constitution." _Journal of American History_ 74 (December 1987): 836-862.
 
-[_Women and Social Movements in the United States, 1600-2000_](http://womhist.binghamton.edu/)
+{{% resource_link "7edff63e-c6c9-4ccc-87c1-57ec66109c12" "_Women and Social Movements in the United States, 1600-2000_" %}}
 
 
 {{< tdclose >}}
@@ -106,10 +106,10 @@ Cott, Nancy F. _Public Vows: A History of Marriage and The Nation._ Cambridge, U
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reynolds v. United States (1879)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=98&invol=145)  
+{{% resource_link "e6ea6d00-ef41-477e-9030-8b1a0d7bc55e" "Reynolds v. United States (1879)" %}}  
 Full text of Reynolds v. United States, 98 U.S. 145 (1879).
 
-[Mormon Church v. United States (1890)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=136&invol=1)  
+{{% resource_link "7449d9a0-e4b9-4c7a-9675-bfcd6be28092" "Mormon Church v. United States (1890)" %}}  
 Full text of Mormon Church v. United States, also known as Late Corporation of the Church of Latter-Day Saints et al. v. United States, 136 U.S. 1 (1890).
 
 
@@ -141,10 +141,10 @@ Thürner, Manuela. "'Better Citizens without the Ballot': American Antisuffrage 
 {{< tdopen >}}
 
 
-[Bradwell v. State of Illinois (1872)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=83&invol=130)  
+{{% resource_link "ca871b94-45c6-4cd3-980a-a201a045775d" "Bradwell v. State of Illinois (1872)" %}}  
 Full text of decision in Bradwell v. State of Illinois, 83 U.S. 130 (1872).
 
-[Minor v. Happersett (1875)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=88&invol=162)  
+{{% resource_link "d370735c-86a8-480b-978d-d05a3ff0af37" "Minor v. Happersett (1875)" %}}  
 Full text of decision in Minor v. Happersett, 88 U.S. 162 (1875).
 
 
@@ -163,7 +163,7 @@ Dangerous Women at the Turn of the Century
 
 Kerber, Linda K. and Jane Sherron DeHart. "The Many Frontiers of Industrializing America, 1820-1880." In _Women's America: Refocusing the_ _Past_. 5th ed., ed. Linda K. Kerber and Jane Sherron DeHart. New York, NY: Oxford University Press, 1999, pp. 263-266. ISBN: 9780195121803.
 
-Crane, Stephen. _Maggie, A Girl of the Streets and Other Short Fiction._ New York: Bantam, 1986. ([Download](http://www.gutenberg.org/ebooks/447) a version of this text from Project Gutenberg.)
+Crane, Stephen. _Maggie, A Girl of the Streets and Other Short Fiction._ New York: Bantam, 1986. ({{% resource_link "24d939ea-acb7-426b-b2f1-e028aee7ca5f" "Download" %}} a version of this text from Project Gutenberg.)
 
 Far, Sui Sin. _Mrs. Spring Fragrance and Other Writings_, ed. Amy Ling and Annette White-Parks. Urbana, IL: University of Illinois Press, 1995, selected stories. ISBN: 9780252021336.
 
@@ -180,10 +180,10 @@ Gould, Stephen J. "Carrie Buck's Daughter." In _The Flamingo's Smile:_ _Reflecti
 {{< tdopen >}}
 
 
-[Buck v. Bell (1927)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=274&invol=200)  
+{{% resource_link "a2cc6ac4-2397-4402-80ed-6a931c55e8b2" "Buck v. Bell (1927)" %}}  
 Full text of Buck v. Bell, 274 U.S. 200 (1927).
 
-[Jacobson v. Commonwealth of Massachusetts (1905)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=197&invol=11)  
+{{% resource_link "8bf43569-e035-4590-9967-67e1d5a7e857" "Jacobson v. Commonwealth of Massachusetts (1905)" %}}  
 Full text of Jacobson v. Commonwealth of Massachusetts, 197 U.S. 11 (1905), which Justice Holmes cites in _Buck v. Bell_ (1927). Not required, but valuable background reading.
 
 
@@ -236,10 +236,10 @@ Willrich, Michael. "Home Slackers: Men, the State, and Welfare in Modern America
 {{< tdopen >}}
 
 
-[Lochner v. New York (1905)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=198&invol=45)  
+{{% resource_link "4be8e33f-6a7e-489f-8161-2dd3c90de410" "Lochner v. New York (1905)" %}}  
 Full text of Lochner v. New York, 198 U.S. 45 (1905).
 
-[Muller v. Oregon (1908)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=208&invol=412)  
+{{% resource_link "87f45cdc-00dd-4f6e-8c92-d7908ba33846" "Muller v. Oregon (1908)" %}}  
 Full text of Muller v. Oregon, 208 U.S. 412 (1908).
 
 
@@ -265,7 +265,7 @@ Kennedy, Randall. "Race, Children, and Custody Battles: The Special Status of Na
 
 {{< tdclose >}}
 {{< tdopen >}}
-[New York Foundling Hospital v. Gatti (1906)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=203&invol=429)  
+{{% resource_link "a458703e-2cdb-4c5b-a0b2-148c3b5f8e16" "New York Foundling Hospital v. Gatti (1906)" %}}  
 Full text of New York Foundling Hospital v. Gatti, 203 U.S. 429 (1906).
 {{< tdclose >}}
 
@@ -301,10 +301,10 @@ Allyn, David. "In Loco Parentis." In _Make Love,_ _Not War: The_ _Sexual Revolut
 {{< tdopen >}}
 
 
-[Griswold v. Connecticut (1965)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=381&invol=479)  
+{{% resource_link "8fafc1dc-9d96-4d98-a1ee-13fb325d073b" "Griswold v. Connecticut (1965)" %}}  
 Full text of Griswold v. Connecticut, 381 U.S. 479 (1965). An abridged version was handed out in class.
 
-[Roe v. Wade (1973)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=410&invol=113)  
+{{% resource_link "92792167-3ac9-42ab-85bc-5d1a0fa78c1e" "Roe v. Wade (1973)" %}}  
 Full text of Roe v. Wade, 410 U.S. 113 (1973). An abridged version was handed out in class.
 
 
@@ -321,7 +321,7 @@ Gender, Sexuality, and Disability
 {{< tdopen >}}
 _Viewing_
 
-[_Philadelphia_](http://www.imdb.com/title/tt0107818/) (1993).
+{{% resource_link "0a3f4213-0186-43a6-9fc7-d99675b4d8e1" "_Philadelphia_" %}} (1993).
 
 
 {{< tdclose >}}
@@ -382,7 +382,7 @@ Gavora, Jessica. "Girl Power: Will Feminist Mau-Mauing Kill Title IX Reform?" _N
 
 {{< tdclose >}}
 {{< tdopen >}}
-[United States v. Virginia (1996)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=000&invol=u20026)  
+{{% resource_link "0a8d62f2-51cd-494d-930e-faa0f09b112d" "United States v. Virginia (1996)" %}}  
 Full text of the VMI decision in United States v. Virginia, 518 U.S. 515 (1996).
 {{< tdclose >}}
 
@@ -399,7 +399,7 @@ Conclusion
 
 _Viewing_
 
-[_Erin Brockovich_](http://www.imdb.com/title/tt0195685/) (2000).
+{{% resource_link "b49b8ce1-7cf3-4017-9b5b-928fdc582937" "_Erin Brockovich_" %}} (2000).
 
 
 {{< tdclose >}}
